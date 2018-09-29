@@ -1,0 +1,14 @@
+{
+    "name": "yangxiang817726/test",
+    "description": "ce\b\b a",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "yangxiang",
+            "email": "1054421655@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
